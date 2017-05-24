@@ -1,0 +1,27 @@
+input[type=submit],input[type=reset] {
+	cursor:pointer;
+	background-color:#93EAEB;
+}
+body{
+	background-image: url(../../image/flat_vector_mug_wallpaper_brown_by_microfreaks-d8e6acp.png);
+	}
+#wrap{
+	width: 1024px;
+	margin: auto;
+	height:100%;
+	}
+#isi{
+	width: 1024px;
+	min-height:650px;
+	max-height:1000px;
+	margin:auto;
+	padding-top:200px;
+	
+	}
+	#login{
+	width:260px;
+	height:255px;
+	margin:auto;
+	background-color: #49BEE8;
+	border-radius:5px;
+	}
